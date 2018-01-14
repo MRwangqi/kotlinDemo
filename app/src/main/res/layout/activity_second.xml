@@ -21,7 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <com.codelang.kotlin.view.BallView
+    <com.codelang.kotlin.view.SharesChat
         android:id="@+id/pie3"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

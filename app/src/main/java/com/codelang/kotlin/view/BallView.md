@@ -404,13 +404,16 @@ ok,方块完美的绘制
 
 ![](http://oxp6pf88h.bkt.clouddn.com/bricksbrick.gif)
 
-通过成功
+通关成功
 
 ![](http://oxp6pf88h.bkt.clouddn.com/bricksbricks6.png)
 
 > 总结
 
+小球碰撞到底部边界的判断我没有去做，原因是为了能击打到方块，增加趣味性，还有碰撞方块的四个方向，我只做了碰撞到底部的方向，有兴趣的同学可以自己试着补上，查看完整源码
+
 理论和实践相辅相成，理论是规划实践的实施性，实践是为了证明理论
 
+<center>qq群号492386431<p>关注公众号codelang<p>
 
-<center><p>关注公众号codelang<p>![](http://oxp6pf88h.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81zing.png)</center>
+![](https://user-gold-cdn.xitu.io/2017/12/8/160342f2d589ab61?w=170&h=169&f=png&s=33128)</center>
